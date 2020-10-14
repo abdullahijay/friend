@@ -1,0 +1,51 @@
+/* Add all your styles here */
+
+ .bd{
+ color: white;
+ background-color: purple ;
+ margin-top: 6% ;}
+
+ body {
+ background-image:url(9.jpg);
+ 
+     
+ color: red;}
+
+ .center{
+ text-align:center;}
+
+ .lip{
+ background-color: cheveron;
+ margin-top: 2% ;}
+
+
+ .btn-center{
+ display: flex;
+ text-align: center  ;
+ position:relative;
+ justify:content(center) ;
+ }
+
+
+ input {
+ display:flex ; 
+ position: absolute ;
+ width:90px}
+
+
+ .left{
+    margin-left: 3% ;}
+
+
+
+
+  #nvd{
+  border: 0px solid white ;}
+
+
+
+  .zz{
+  background-color: purple ;}
+
+
+
